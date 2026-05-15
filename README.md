@@ -1,4 +1,3 @@
-# inventario-python
 # Matriz de inventario
 # [Código, Nombre, Stock Actual, Stock Mínimo]
 
